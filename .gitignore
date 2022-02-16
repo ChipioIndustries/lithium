@@ -1,0 +1,13 @@
+# Wally packages
+/DevPackages
+/Packages
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Foreman installation
+/.foreman-install
+
+# Selene Roblox library
+roblox.toml
