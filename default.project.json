@@ -1,5 +1,5 @@
 {
-	"name": "package_name_here",
+	"name": "lithium",
 	"tree": {
 		"$path": "src"
 	}

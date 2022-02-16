@@ -1,6 +1,6 @@
 [package]
-name = "username_here/package_name_here"
-description = "package_description_here"
+name = "chipioindustries/lithium"
+description = "A fake network call that can simulate errors and latency."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"

@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PACKAGE_NAME_HERE',
-  tagline: 'TAGLINE_HERE',
-  url: 'https://username_here.github.io',
-  baseUrl: '/package_name_here/',
+  title: 'Lithium',
+  tagline: 'A fake network call that can simulate errors and latency.',
+  url: 'https://chipioindustries.github.io',
+  baseUrl: '/lithium/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'username_here', // Usually your GitHub org/user name.
+  organizationName: 'chipioindustries', // Usually your GitHub org/user name.
   projectName: 'project_name_here', // Usually your repo name.
 
   presets: [
@@ -38,7 +38,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'PACKAGE_NAME_HERE',
+        title: 'Lithium',
         logo: {
           alt: 'Site Logo',
           src: 'img/logo.png',
@@ -51,7 +51,7 @@ const config = {
             label: 'Get Started',
           },
           {
-            href: 'https://github.com/username_here/package_name_here',
+            href: 'https://github.com/chipioindustries/lithium',
             label: 'GitHub',
             position: 'right',
           },

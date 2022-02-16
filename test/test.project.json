@@ -1,5 +1,5 @@
 {
-	"name": "package_name_here",
+	"name": "lithium",
 	"tree": {
 		"$className": "DataModel",
 	
@@ -12,7 +12,7 @@
 			"Packages": {
 				"$className": "Folder",
 				"$path": "../Packages",
-				"PACKAGE_NAME_HERE": {
+				"Lithium": {
 					"$path": "../default.project.json"
 				}
 			}
