@@ -4,14 +4,14 @@
 
 # Lithium
 
-Lithium is a template for creating Roblox package repositories.
+Lithium is an instance for simulating network calls that can yield and fail.
 
 ## Installing with Wally
 
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	Lithium = "chipioindustries/lithium@0.1.0"
+	Lithium = "chipioindustries/lithium@1.0.0"
 	```
 
 * Then run `wally install` to install the package.

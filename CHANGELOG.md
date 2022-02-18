@@ -1,3 +1,3 @@
-## v0.1.0
+## v1.0.0
 
-* Create a new h2 for each release.
+* Initial release.
